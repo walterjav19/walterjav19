@@ -1,16 +1,63 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=walterjav19.walterjav19" />
 
-<!--
-**walterjav19/walterjav19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👀🫡;+I'm+Walter+Javier !;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">software developer of a small country in central America, Guatemala 🇬🇹</h3>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ 
+ 🔭 I’m currently studying the 8th semester of science and systems engineering at **UNIVERSIDAD DE SAN CARLOS DE GUATEMALA (USAC)**
+ 
+ 🌱 I’m currently learning **Kubernetes, AWS, GCP, MONGO DB, fast API**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:walterjav19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/walterjav192003/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/walterjav19?igsh=M3Z2MmN0cGtzM20z" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
+  </a>
+    <a href="https://www.facebook.com/profile.php?id=100069937236311&mibextid=ZbWKwL" target="_blank">
+     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> 
+  </a>
+</div>
+
+ 
+<h2 align="center">🚀🌌 Languages-Frameworks-Tools-Hardware 🚀🌌</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,eclipse,github,tailwind,git,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,java,mysql,flask,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,linux,bash,ubuntu,raspberrypi,arduino" /><br>
+</div>
+
+<br/>
+
+
+
+
+<hr/>
+
+<h2 align="center"> ⚔️🔥Stats ⚔️🔥</h2>
+<br>
+<div align=center>
+
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+🫂;+See+you+soon;" />
+</h3>
+
+
+
